@@ -14,8 +14,8 @@ Network-traffic-analysis tool is a powerful network traffic analysis tool design
 The dataset (network_traffic_anomaly_dataset.csv) contains the following columns:
 
 - **timestamp**: Time of network activity.
-- **source_ip: IP address of the source.
-- destination_ip**: IP address of the destination.
+- **source_ip**: IP address of the source.
+- **destination_ip**: IP address of the destination.
 - **source_port**: Port used by the source.
 - **destination_port**: Port used by the destination.
 - **protocol**: Communication protocol (TCP/UDP).
