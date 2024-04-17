@@ -23,4 +23,4 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 ## Disclaimer
 
-NetAnalyze is intended for educational and informational purposes only. Use at your own risk. We are not responsible for any misuse or damage caused by this tool.
+Network-traffic-analysis tool is intended for educational and informational purposes only. Use at your own risk. We are not responsible for any misuse or damage caused by this tool.
